@@ -6,7 +6,8 @@ Currently expanding my technology skills by:
 - Learning the Dart programming language, and Flutter framework
 - Studying for CCNA
 - Mucking around with my Linux server in my spare time :D
-
+- Learning Git
+- Improving skills in PHP/HTML
 
 
 
