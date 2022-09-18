@@ -19,4 +19,4 @@ Some of my projects so far:
 
 - [Collab List](http://thetechclicks.com:80)
     A collaborative shopping list for households, written in PHP as a school project (VCE Software Development Unit 3/4) 
-    [GitHub Repo here:](https://github.com/jensen-lloyd/CollabList)
+    <br>GitHub Repo [here](https://github.com/jensen-lloyd/CollabList)
