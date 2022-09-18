@@ -18,4 +18,5 @@ Some of my projects so far:
     A terminal based chatroom over sockets, written both server and client side in Dart
 
 - [Collab List](http://thetechclicks.com:80)
-    A collaborative shopping list for households, written in PHP as a school project (VCE Software Development Unit 3/4) [GitHub Repo](https://github.com/jensen-lloyd/CollabList)
+    A collaborative shopping list for households, written in PHP as a school project (VCE Software Development Unit 3/4) 
+    [GitHub Repo here:](https://github.com/jensen-lloyd/CollabList)
