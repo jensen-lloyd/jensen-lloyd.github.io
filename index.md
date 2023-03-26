@@ -11,6 +11,5 @@ Currently expanding my technology skills by:
 
 Some of my projects so far:
 
-- [Collab List](http://thetechclicks.com:80)
+- [Collab List](https://github.com/jensen-lloyd/CollabList)
     A collaborative shopping list for households, written in PHP as a school project (VCE Software Development Unit 3/4) 
-    <br>GitHub Repo [here](https://github.com/jensen-lloyd/CollabList)
