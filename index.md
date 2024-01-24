@@ -1,12 +1,14 @@
-Hi! My name's Jensen, a year 12 student from Melbourne, Australia.
+Hi! My name's Jensen, a University student from Melbourne, Australia.
 
-I love technology, music, playing guitar, history, psychology, biology and economics.
+Currently studing Bachelor of Computer Science (Professional) at RMIT
+
+I love digital technology, music, playing guitar, history and economics.
 
 Currently expanding my technology skills by:
 - Learning the Dart programming language, and Flutter framework
-- Studying for CCNA
-- Learning Git
-- Toying around with my Linux server in my spare time :D
+- Studying for CCNA qualification, which I aim to complete by June 2024
+- Continuing to learn and practice usage of Git for managing files in my projects
+- Practicing administrating my two Linux servers (Cloud VPS and Local), running a variety of tools and applications such as VPN, backups over FTP, personal DNS, and hosting projects that I am working on
 
 
 Some of my projects so far:
