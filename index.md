@@ -1,6 +1,6 @@
 Hi! My name's Jensen, a University student from Melbourne, Australia.
 
-Currently studing Bachelor of Computer Science (Professional) at RMIT
+Currently studying Bachelor of Computer Science (Professional) at RMIT.
 
 I love digital technology, music, playing guitar, history and economics.
 
