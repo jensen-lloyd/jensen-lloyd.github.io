@@ -1,4 +1,6 @@
-Hi! My name's Jensen, a year 11 student from Melbourne, Australia.
+Hi! My name's Jensen, a first year University student from Melbourne, Australia.
+
+I am studying a Bachelor of Computer Science (Professional) at RMIT University.
 
 I love technology, music, playing guitar, history, psychology, biology and economics.
 
