@@ -10,4 +10,5 @@ Interests in software development, solution/software architecture, cryptography,
 
 Hobbies include cycling, motorcycling, and playing guitar.
 
-### [List of my projects](projects/index.md)
+[List of my projects](projects/index.md)
+ 
