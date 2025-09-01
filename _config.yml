@@ -1,5 +1,5 @@
 name: Jensen Lloyd
-description: An about me page + links to my projects, qualifications etc.
+description: A page about me, projects, etc.
 url: https://jensen-lloyd.github.io
 markdown: kramdown
-theme: simplex
+theme: jekyll-theme-minimal
