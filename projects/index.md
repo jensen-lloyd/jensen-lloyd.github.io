@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 # Projects
 A summary of current and past projects that I've created or been apart of.
