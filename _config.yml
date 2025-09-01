@@ -2,4 +2,4 @@ name: Jensen Lloyd
 description: An about me page + links to my projects, qualifications etc.
 url: https://jensen-lloyd.github.io
 markdown: kramdown
-theme: gitbook
+theme: simplex
