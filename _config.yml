@@ -3,4 +3,4 @@ description: A page about me, projects, etc.
 markdown: kramdown
 baseurl: "" # leave blank for user.github.io repo, otherwise set "/repo-name"
 url: "https://jensen-lloyd.github.io"
-theme: jekyll-theme-slate
+theme: tactile
