@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Jensen Lloyd
 ## About me
 I'm a Computer Science student at Swinburne University, majoring in Software Development.
