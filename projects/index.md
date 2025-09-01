@@ -14,5 +14,8 @@ permalink: /projects/
 
 - ### [Traffic Prediction](https://github.com/JackBetson/tbrgs-traffic-prediction) - Private until end of Semester 2 2025
   ### Traffic prediction algorithm using 3 ML model types for Group Assignment 2b in unit COS30019 Intro to AI
+
+- ### [AWS Uni Project](https://github.com/jensen-lloyd/COS20019-Assignment-2-report/blob/main/CCA_Assignment2.pdf)
+  ### Project for Cloud Computing Architecture (COS20019) building infrastructure for a highly available photo gallery with AWS   
   
 - ### More coming soon…
