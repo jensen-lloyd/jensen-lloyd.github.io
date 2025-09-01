@@ -1,13 +1,6 @@
-#name: Jensen Lloyd
-#description: A page about me, projects, etc.
-#url: https://jensen-lloyd.github.io
-#markdown: kramdown
-
-
-
-title: Jensen Lloyd
-description: >- 
-  A site about me, and what I've been up to
+name: Jensen Lloyd
+description: A page about me, projects, etc.
+markdown: kramdown
 baseurl: "" # leave blank for user.github.io repo, otherwise set "/repo-name"
 url: "https://jensen-lloyd.github.io"
 theme: jekyll-theme-minimal
